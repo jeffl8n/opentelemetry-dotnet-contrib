@@ -1,4 +1,6 @@
-using System.Diagnostics;
+// Copyright The OpenTelemetry Authors
+// SPDX-License-Identifier: Apache-2.0
+
 using OpenTelemetry.Instrumentation.AseClient.Implementation;
 
 namespace OpenTelemetry.Instrumentation.AseClient;
